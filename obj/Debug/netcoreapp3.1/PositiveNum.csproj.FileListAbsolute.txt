@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\PositiveNum\PositiveNum\bin\Debug\netcoreapp3.1\PositiveNum.exe
+C:\Users\DELL\source\repos\PositiveNum\PositiveNum\bin\Debug\netcoreapp3.1\PositiveNum.deps.json
+C:\Users\DELL\source\repos\PositiveNum\PositiveNum\bin\Debug\netcoreapp3.1\PositiveNum.runtimeconfig.json
+C:\Users\DELL\source\repos\PositiveNum\PositiveNum\bin\Debug\netcoreapp3.1\PositiveNum.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\PositiveNum\PositiveNum\bin\Debug\netcoreapp3.1\PositiveNum.dll
+C:\Users\DELL\source\repos\PositiveNum\PositiveNum\bin\Debug\netcoreapp3.1\PositiveNum.pdb
+C:\Users\DELL\source\repos\PositiveNum\PositiveNum\obj\Debug\netcoreapp3.1\PositiveNum.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PositiveNum\PositiveNum\obj\Debug\netcoreapp3.1\PositiveNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\PositiveNum\PositiveNum\obj\Debug\netcoreapp3.1\PositiveNum.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PositiveNum\PositiveNum\obj\Debug\netcoreapp3.1\PositiveNum.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PositiveNum\PositiveNum\obj\Debug\netcoreapp3.1\PositiveNum.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PositiveNum\PositiveNum\obj\Debug\netcoreapp3.1\PositiveNum.dll
+C:\Users\DELL\source\repos\PositiveNum\PositiveNum\obj\Debug\netcoreapp3.1\PositiveNum.pdb
+C:\Users\DELL\source\repos\PositiveNum\PositiveNum\obj\Debug\netcoreapp3.1\PositiveNum.genruntimeconfig.cache
